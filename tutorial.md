@@ -38,6 +38,6 @@
 # some error fixes
 
 1. × This environment is externally managed error python, on linux.
-1: sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED. not sure but you should change python3.11 to your python version.
+1: sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED. not sure but you should change python3.11 to your python version. (Not Recomended , it can break your package manager)
 
 2. if it is stuck on creating ramdisk, please force reboot your device and try again because bad dfu state
